@@ -291,9 +291,9 @@ This forms a strong foundation for:
 
 ```
 cattle-detection-classification/
-│── script.py
-│── script1.py
-│── efficientnet_v2s_final.keras
+│── class_distribution_final_16.py
+│── final_class_distribution.py
+│── Global_Classification_Metrics.csv
 │── classification_report.txt
 │── per_class_accuracy.csv
 │── final_class_distribution.csv
