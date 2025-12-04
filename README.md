@@ -306,7 +306,7 @@ cattle-detection-classification/
 │   ├── EfficientNet Training Loss (Reconstructed).png
 │   ├── Prediction_Grid (4x6).png
 │   ├── figure1_cropped.png
-│   ├── figure2_fallback.png
+│   └── figure2_fallback.png
 │
 └── README.md
 ```
