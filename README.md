@@ -291,6 +291,7 @@ This forms a strong foundation for:
 
 ```
 cattle-detection-classification/
+│── Final_cattle_model.ipynb
 │── class_distribution_final_16.py
 │── final_class_distribution.py
 │── Global_Classification_Metrics.csv
