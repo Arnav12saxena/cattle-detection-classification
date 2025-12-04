@@ -1,0 +1,22 @@
+              precision    recall  f1-score   support
+
+    Ayrshire       0.85      0.71      0.77        24
+       Banni       0.92      1.00      0.96        11
+      Bargur       0.75      0.67      0.71         9
+       Brown       0.79      0.83      0.81        23
+       Deoni       1.00      0.70      0.82        10
+         Gir       0.78      0.78      0.78        36
+    Guernsey       0.58      0.58      0.58        12
+    Hallikar       0.67      0.84      0.74        19
+    Holstein       0.77      1.00      0.87        33
+      Jersey       0.80      0.57      0.67        21
+      Ongole       0.75      0.63      0.69        19
+       Rathi       0.67      0.67      0.67        15
+     Sahiwal       0.79      0.79      0.79        43
+  Tharparkar       0.68      0.68      0.68        22
+        Toda       0.79      0.85      0.81        13
+  Umblachery       0.86      0.75      0.80         8
+
+    accuracy                           0.77       318
+   macro avg       0.78      0.75      0.76       318
+weighted avg       0.77      0.77      0.76       318
