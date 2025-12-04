@@ -308,8 +308,6 @@ cattle-detection-classification/
 │   ├── figure1_cropped.png
 │   ├── figure2_fallback.png
 │
-├── classify_data/
-├── cow_crops/
 └── README.md
 ```
 
