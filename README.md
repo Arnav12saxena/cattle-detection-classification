@@ -118,8 +118,12 @@ Even so, enough clean crops were gathered.
 ### 🖼 Figure 1: Example YOLO Crops  
 (from `cow_crops/`)
 
+![Example YOLO Crops](results/figure1_cropped.png)
+
 ### 🖼 Figure 2: Detection Success vs Failure  
 (from `figure2_fallback.png`)
+
+![Detection Success vs Failure](results/figure2_fallback.png)
 
 ---
 
@@ -172,6 +176,9 @@ Found in `/results/`:
 - EfficientNet Training Accuracy  
 - EfficientNet Training Loss  
 
+![Training Accuracy](results/EfficientNet Training Accuracy (Reconstructed).png)  
+![Training Loss](results/EfficientNet Training Loss (Reconstructed).png)
+
 ---
 
 ## 🔢 Confusion Matrix
@@ -180,6 +187,9 @@ Includes:
 
 - Confusion Matrix  
 - Normalized Confusion Matrix  
+
+![Confusion Matrix](results/Confusion Matrix.png)  
+![Normalized Confusion Matrix](results/Normalized Confusion Matrix.png)
 
 ### ⚠️ Major Confusions
 - Hallikar ↔ Bargur  
@@ -210,6 +220,8 @@ Weakest:
 
 Image: `Prediction_Grid (4x6).png`  
 Displays correct, incorrect, and borderline samples.
+
+![Prediction Grid](results/Prediction_Grid (4x6).png)
 
 ---
 
