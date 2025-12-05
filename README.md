@@ -176,8 +176,8 @@ Found in `/results/`:
 - EfficientNet Training Accuracy  
 - EfficientNet Training Loss  
 
-![Training Accuracy](results/EfficientNet Training Accuracy (Reconstructed).png)  
-![Training Loss](results/EfficientNet Training Loss (Reconstructed).png)
+![Training Accuracy](results/EfficientNet%20Training%20Accuracy%20(Reconstructed).png)
+![Training Loss](results/EfficientNet%20Training%20Loss%20(Reconstructed).png)
 
 ---
 
@@ -188,8 +188,8 @@ Includes:
 - Confusion Matrix  
 - Normalized Confusion Matrix  
 
-![Confusion Matrix](results/Confusion Matrix.png)  
-![Normalized Confusion Matrix](results/Normalized Confusion Matrix.png)
+![Confusion Matrix](results/Confusion%20Matrix.png)
+![Normalized Confusion Matrix](results/Normalized%20Confusion%20Matrix.png)
 
 ### ⚠️ Major Confusions
 - Hallikar ↔ Bargur  
@@ -221,7 +221,7 @@ Weakest:
 Image: `Prediction_Grid (4x6).png`  
 Displays correct, incorrect, and borderline samples.
 
-![Prediction Grid](results/Prediction_Grid (4x6).png)
+![Prediction Grid](results/Prediction_Grid%20(4x6).png)
 
 ---
 
